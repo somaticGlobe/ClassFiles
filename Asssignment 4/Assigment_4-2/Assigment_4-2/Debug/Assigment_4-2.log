@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\somat\documents\cs3220 s19\finished assignments\module 4\assigment_4-2\assigment_4-2\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assigment_4-2.vcxproj -> C:\Users\somat\Documents\CS3220 S19\Finished Assignments\Module 4\Assigment_4-2\Debug\Assigment_4-2.exe
